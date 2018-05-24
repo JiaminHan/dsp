@@ -35,7 +35,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > list all files and directories in the current working directory
+list all contents, including hidden files and directories
+list all contents in the working directory in long format
+With -l, print sizes in human-readable format 
+list all contents in human readable format
+order the files and directories by the time they were last modified
+without group names
+
 
 ---
 
