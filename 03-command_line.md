@@ -60,7 +60,7 @@ ls -Glp --list without group names
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls -r, ls -u, ls -d, ls -f, ls -R
 
 ---
 
@@ -68,7 +68,6 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs is used to build and execute commands from standard input. It converts input from standard input into arguments to a command.
 
- 
-
+ e.g : echo 'one two three' | xargs mkdir
