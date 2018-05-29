@@ -68,6 +68,4 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > xargs is used to build and execute commands from standard input. It converts input from standard input into arguments to a command.
-
- e.g : echo 'one two three' | xargs mkdir
+> > xargs is used to build and execute commands from standard input. It converts input from standard input into arguments to a command. e.g : echo 'one two three' | xargs mkdir
